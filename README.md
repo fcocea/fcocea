@@ -31,7 +31,9 @@ Sunday                   156 commits         ███████░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CMake                    1 min               ██████████████████░░░░░░░   73.50 % 
+C++                      0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 ```
 
 
