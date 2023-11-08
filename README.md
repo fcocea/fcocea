@@ -40,5 +40,13 @@ No Activity Tracked This Week
 
 <details><summary> 💻 Latest activity on GitHub</summary>
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)<br>
+2. ⭐ Starred [RefactoringGuru/design-patterns-rust](https://github.com/RefactoringGuru/design-patterns-rust)<br>
+3. ⭐ Starred [aidenybai/million](https://github.com/aidenybai/million)<br>
+4. ⭐ Starred [axeldelafosse/awesome-universal-react](https://github.com/axeldelafosse/awesome-universal-react)<br>
+5. ⭐ Starred [nektos/act](https://github.com/nektos/act)<br>
+<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Wednesday, November 8th, 2023, 6:41:24 PM
+<!--RECENT_ACTIVITY:last_update_end-->
 </details>
