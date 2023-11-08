@@ -1,0 +1,7 @@
+settings:
+  username: "fcocea"
+  commit_msg: "readme: update with the latest activity on github"
+  max_lines: 5
+  url_text: "{REPO}{ID}"
+  ignored_repos:
+    - "fcocea/fcocea"
