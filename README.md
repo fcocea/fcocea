@@ -39,6 +39,7 @@ No Activity Tracked This Week
 </details>
 
 <details><summary> 💻 Latest activity on GitHub</summary>
+
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)<br>
 2. ⭐ Starred [RefactoringGuru/design-patterns-rust](https://github.com/RefactoringGuru/design-patterns-rust)<br>
