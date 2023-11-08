@@ -1,4 +1,4 @@
-name: Update README
+name: Latest activity on github
 
 on:
   schedule:
@@ -15,4 +15,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_msg: "readme: update with the latest activity on github"
+          COMMIT_MSG: "readme: update with the latest activity on github"
