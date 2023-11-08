@@ -1,6 +1,6 @@
 ### Hi there, I'm Francisco :chile:
 
--------
+
 <details><summary> 📈 This Week's Coding Stats</summary>
 
 <!--START_SECTION:waka-->
@@ -36,4 +36,9 @@ No Activity Tracked This Week
 
 
 <!--END_SECTION:waka-->
+</details>
+
+<details><summary> 💻 Latest activity on GitHub</summary>
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 </details>
