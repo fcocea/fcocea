@@ -2,7 +2,7 @@ settings:
   username: "fcocea"
   commit_msg: "readme: update with the latest activity on github"
   max_lines: 5
-  readme_file: "./TEMPLATE.md"
+  readme_file: "./README.md"
   disabled_events:
     - "comments"
   url_text: "{REPO}{ID}"
