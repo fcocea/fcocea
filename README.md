@@ -31,7 +31,11 @@ Sunday                   156 commits         ███████░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   43 mins             ████████░░░░░░░░░░░░░░░░░   33.84 % 
+YAML                     41 mins             ████████░░░░░░░░░░░░░░░░░   31.95 % 
+Markdown                 23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+TeX                      20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 
