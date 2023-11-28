@@ -45,10 +45,10 @@ Bash                     32 mins             █░░░░░░░░░░�
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
-2. ⭐ Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)<br>
-3. ⭐ Starred [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)<br>
-4. ⭐ Starred [RefactoringGuru/design-patterns-rust](https://github.com/RefactoringGuru/design-patterns-rust)<br>
-5. ⭐ Starred [aidenybai/million](https://github.com/aidenybai/million)<br>
+1. ⭐ Starred [huggingface/candle](https://github.com/huggingface/candle)<br>
+2. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
+3. ⭐ Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)<br>
+4. ⭐ Starred [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)<br>
+5. ⭐ Starred [RefactoringGuru/design-patterns-rust](https://github.com/RefactoringGuru/design-patterns-rust)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
