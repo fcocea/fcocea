@@ -31,10 +31,11 @@ Sunday                   158 commits         ███████░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-Java                     8 hrs 51 mins       █████████████████████████   99.64 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Java                     7 hrs               ███████████████████████░░   90.23 % 
+Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 
