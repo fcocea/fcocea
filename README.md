@@ -49,6 +49,5 @@ TypeScript               0 secs              ░░░░░░░░░░░�
 2. ⭐ Starred [huggingface/candle](https://github.com/huggingface/candle)<br>
 3. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
 4. ⭐ Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)<br>
-5. ⭐ Starred [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
