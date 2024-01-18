@@ -7,21 +7,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-🌆 Daytime                357 commits         ██████████░░░░░░░░░░░░░░░   40.11 % 
-🌃 Evening                309 commits         █████████░░░░░░░░░░░░░░░░   34.72 % 
-🌙 Night                  161 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+🌞 Morning                64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+🌆 Daytime                357 commits         ██████████░░░░░░░░░░░░░░░   39.58 % 
+🌃 Evening                309 commits         █████████░░░░░░░░░░░░░░░░   34.26 % 
+🌙 Night                  172 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Tuesday                  143 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Wednesday                148 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Thursday                 227 commits         ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-Friday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Saturday                 75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Sunday                   171 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Monday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Tuesday                  144 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Wednesday                148 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Thursday                 238 commits         ███████░░░░░░░░░░░░░░░░░░   26.39 % 
+Friday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Saturday                 75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Sunday                   171 commits         █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
 ```
 
 
@@ -31,11 +31,11 @@ Sunday                   171 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-JavaScript               22 hrs 21 mins      ██████████████████░░░░░░░   70.99 % 
-TypeScript               8 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-TOML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+TypeScript               19 hrs 45 mins      ██████████████░░░░░░░░░░░   57.38 % 
+JavaScript               13 hrs 54 mins      ██████████░░░░░░░░░░░░░░░   40.38 % 
+JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 
 
