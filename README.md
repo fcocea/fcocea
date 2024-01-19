@@ -49,6 +49,6 @@ Other                    8 mins              ░░░░░░░░░░░�
 2. ⬆️ Pushed 1 commit(s) to [fcocea/Restart-PM2-Action](https://github.com/fcocea/Restart-PM2-Action)<br>
 3. ⬆️ Pushed 1 commit(s) to [fcocea/Restart-PM2-Action](https://github.com/fcocea/Restart-PM2-Action)<br>
 4. ⬆️ Pushed 1 commit(s) to [fcocea/Restart-PM2-Action](https://github.com/fcocea/Restart-PM2-Action)<br>
-5. 📔 Created new repository [fcocea/Restart-PM2-Action](https://github.com/fcocea/Restart-PM2-Action)<br>
+5. ⬆️ Pushed 1 commit(s) to [fcocea/Restart-PM2-Action](https://github.com/fcocea/Restart-PM2-Action)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
