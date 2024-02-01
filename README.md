@@ -45,9 +45,9 @@ Markdown                 1 min               ░░░░░░░░░░░�
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [fcocea/Restart-PM2-Action](https://github.com/fcocea/Restart-PM2-Action)<br>
-2. ✌️ Released [First version](https://github.com/fcocea/Restart-PM2-Action/releases/tag/v1.0) in [fcocea/Restart-PM2-Action](https://github.com/fcocea/Restart-PM2-Action)<br>
-3. ⬆️ Pushed 1 commit(s) to [fcocea/Restart-PM2-Action](https://github.com/fcocea/Restart-PM2-Action)<br>
+1. ⭐ Starred [refinedev/refine](https://github.com/refinedev/refine)<br>
+2. ⬆️ Pushed 1 commit(s) to [fcocea/Restart-PM2-Action](https://github.com/fcocea/Restart-PM2-Action)<br>
+3. ✌️ Released [First version](https://github.com/fcocea/Restart-PM2-Action/releases/tag/v1.0) in [fcocea/Restart-PM2-Action](https://github.com/fcocea/Restart-PM2-Action)<br>
 4. ⬆️ Pushed 1 commit(s) to [fcocea/Restart-PM2-Action](https://github.com/fcocea/Restart-PM2-Action)<br>
 5. ⬆️ Pushed 1 commit(s) to [fcocea/Restart-PM2-Action](https://github.com/fcocea/Restart-PM2-Action)<br>
 <!--RECENT_ACTIVITY:end-->
