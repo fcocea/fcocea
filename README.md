@@ -45,10 +45,10 @@ Markdown                 1 min               ░░░░░░░░░░░�
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts)<br>
-2. ⭐ Starred [refinedev/refine](https://github.com/refinedev/refine)<br>
-3. ⬆️ Pushed 1 commit(s) to [fcocea/Restart-PM2-Action](https://github.com/fcocea/Restart-PM2-Action)<br>
-4. ✌️ Released [First version](https://github.com/fcocea/Restart-PM2-Action/releases/tag/v1.0) in [fcocea/Restart-PM2-Action](https://github.com/fcocea/Restart-PM2-Action)<br>
-5. ⬆️ Pushed 1 commit(s) to [fcocea/Restart-PM2-Action](https://github.com/fcocea/Restart-PM2-Action)<br>
+1. ⭐ Starred [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)<br>
+2. ⭐ Starred [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts)<br>
+3. ⭐ Starred [refinedev/refine](https://github.com/refinedev/refine)<br>
+4. ⬆️ Pushed 1 commit(s) to [fcocea/Restart-PM2-Action](https://github.com/fcocea/Restart-PM2-Action)<br>
+5. ✌️ Released [First version](https://github.com/fcocea/Restart-PM2-Action/releases/tag/v1.0) in [fcocea/Restart-PM2-Action](https://github.com/fcocea/Restart-PM2-Action)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
