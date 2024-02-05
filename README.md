@@ -45,10 +45,10 @@ JSON                     4 mins              ░░░░░░░░░░░�
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)<br>
-2. ⭐ Starred [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)<br>
-3. ⭐ Starred [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts)<br>
-4. ⭐ Starred [refinedev/refine](https://github.com/refinedev/refine)<br>
-5. ⬆️ Pushed 1 commit(s) to [fcocea/Restart-PM2-Action](https://github.com/fcocea/Restart-PM2-Action)<br>
+1. ⭐ Starred [TanStack/router](https://github.com/TanStack/router)<br>
+2. ⭐ Starred [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)<br>
+3. ⭐ Starred [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)<br>
+4. ⭐ Starred [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts)<br>
+5. ⭐ Starred [refinedev/refine](https://github.com/refinedev/refine)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
