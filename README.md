@@ -45,10 +45,10 @@ JSON                     15 mins             ░░░░░░░░░░░�
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MartinEBravo/MartinGPT](https://github.com/MartinEBravo/MartinGPT)<br>
-2. ⭐ Starred [TanStack/router](https://github.com/TanStack/router)<br>
-3. ⭐ Starred [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)<br>
-4. ⭐ Starred [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)<br>
-5. ⭐ Starred [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts)<br>
+1. ⭐ Starred [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)<br>
+2. ⭐ Starred [MartinEBravo/MartinGPT](https://github.com/MartinEBravo/MartinGPT)<br>
+3. ⭐ Starred [TanStack/router](https://github.com/TanStack/router)<br>
+4. ⭐ Starred [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)<br>
+5. ⭐ Starred [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
