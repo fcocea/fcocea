@@ -31,11 +31,11 @@ Sunday                   181 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-JavaScript               19 hrs 42 mins      ████████████████████████░   97.07 % 
-Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+JavaScript               21 hrs 9 mins       █████████████████████░░░░   84.49 % 
+TypeScript               2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+HTML                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Other                    26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 
 
