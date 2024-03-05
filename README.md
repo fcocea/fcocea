@@ -31,11 +31,10 @@ Sunday                   183 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-TeX                      56 mins             ████████████░░░░░░░░░░░░░   48.59 % 
-JavaScript               46 mins             ██████████░░░░░░░░░░░░░░░   39.55 % 
-BibTeX                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+JavaScript               46 mins             ██████████████████████░░░   86.88 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 ```
 
 
