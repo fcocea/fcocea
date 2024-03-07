@@ -31,11 +31,11 @@ Sunday                   183 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-Docker                   1 hr 40 mins        ██████████░░░░░░░░░░░░░░░   41.29 % 
-JavaScript               49 mins             █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-YAML                     43 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-TypeScript               35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Docker                   1 hr 40 mins        ███████████░░░░░░░░░░░░░░   42.04 % 
+JavaScript               49 mins             █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+YAML                     43 mins             █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+TypeScript               35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 ```
 
 
