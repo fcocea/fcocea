@@ -31,7 +31,7 @@ Sunday                   175 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-SSH Config               3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
