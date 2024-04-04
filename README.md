@@ -41,10 +41,10 @@ No Activity Tracked This Week
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)<br>
-2. ⭐ Starred [MartinEBravo/MartinGPT](https://github.com/MartinEBravo/MartinGPT)<br>
-3. ⭐ Starred [TanStack/router](https://github.com/TanStack/router)<br>
-4. ⭐ Starred [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)<br>
-5. ⭐ Starred [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)<br>
+1. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
+2. ⭐ Starred [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)<br>
+3. ⭐ Starred [MartinEBravo/MartinGPT](https://github.com/MartinEBravo/MartinGPT)<br>
+4. ⭐ Starred [TanStack/router](https://github.com/TanStack/router)<br>
+5. ⭐ Starred [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
