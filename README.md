@@ -49,6 +49,5 @@ YAML                     13 mins             ░░░░░░░░░░░�
 2. ⭐ Starred [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme)<br>
 3. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
 4. ⭐ Starred [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)<br>
-5. ⭐ Starred [MartinEBravo/MartinGPT](https://github.com/MartinEBravo/MartinGPT)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
