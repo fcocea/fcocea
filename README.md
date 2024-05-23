@@ -31,7 +31,8 @@ Sunday                   177 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   45 mins             █████████████████████████   98.37 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 ```
 
 
