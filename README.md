@@ -45,9 +45,10 @@ TypeScript               0 secs              ░░░░░░░░░░░�
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [oxc-project/oxc](https://github.com/oxc-project/oxc)<br>
-2. ⭐ Starred [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit)<br>
-3. ⭐ Starred [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme)<br>
-4. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
+1. ⭐ Starred [jrnold/CDB90](https://github.com/jrnold/CDB90)<br>
+2. ⭐ Starred [oxc-project/oxc](https://github.com/oxc-project/oxc)<br>
+3. ⭐ Starred [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit)<br>
+4. ⭐ Starred [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme)<br>
+5. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
