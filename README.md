@@ -45,10 +45,10 @@ CSS                      38 mins             █░░░░░░░░░░�
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [georgique/world-geojson](https://github.com/georgique/world-geojson)<br>
-2. ⭐ Starred [jrnold/CDB90](https://github.com/jrnold/CDB90)<br>
-3. ⭐ Starred [oxc-project/oxc](https://github.com/oxc-project/oxc)<br>
-4. ⭐ Starred [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit)<br>
-5. ⭐ Starred [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme)<br>
+1. ⭐ Starred [roboflow/supervision](https://github.com/roboflow/supervision)<br>
+2. ⭐ Starred [georgique/world-geojson](https://github.com/georgique/world-geojson)<br>
+3. ⭐ Starred [jrnold/CDB90](https://github.com/jrnold/CDB90)<br>
+4. ⭐ Starred [oxc-project/oxc](https://github.com/oxc-project/oxc)<br>
+5. ⭐ Starred [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
