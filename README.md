@@ -45,10 +45,10 @@ TeX                      13 mins             █░░░░░░░░░░�
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [fcocea/Proyecto-Arq-Sw](https://github.com/fcocea/Proyecto-Arq-Sw)<br>
+1. ⬆️ Pushed 1 commit(s) to [fcocea/Proyecto-Arq-Sw](https://github.com/fcocea/Proyecto-Arq-Sw)<br>
 2. 🤝 Became collaborator on [fcocea/Proyecto-Arq-Sw](https://github.com/fcocea/Proyecto-Arq-Sw)<br>
-3. ⭐ Starred [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node)<br>
-4. ⭐ Starred [roboflow/supervision](https://github.com/roboflow/supervision)<br>
-5. ⭐ Starred [georgique/world-geojson](https://github.com/georgique/world-geojson)<br>
+3. 🤝 Became collaborator on [fcocea/Proyecto-Arq-Sw](https://github.com/fcocea/Proyecto-Arq-Sw)<br>
+4. ⭐ Starred [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node)<br>
+5. ⭐ Starred [roboflow/supervision](https://github.com/roboflow/supervision)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
