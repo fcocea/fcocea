@@ -45,10 +45,10 @@ TeX                      13 mins             █░░░░░░░░░░�
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node)<br>
-2. ⭐ Starred [roboflow/supervision](https://github.com/roboflow/supervision)<br>
-3. ⭐ Starred [georgique/world-geojson](https://github.com/georgique/world-geojson)<br>
-4. ⭐ Starred [jrnold/CDB90](https://github.com/jrnold/CDB90)<br>
-5. ⭐ Starred [oxc-project/oxc](https://github.com/oxc-project/oxc)<br>
+1. 🤝 Became collaborator on [fcocea/Proyecto-Arq-Sw](https://github.com/fcocea/Proyecto-Arq-Sw)<br>
+2. 🤝 Became collaborator on [fcocea/Proyecto-Arq-Sw](https://github.com/fcocea/Proyecto-Arq-Sw)<br>
+3. ⭐ Starred [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node)<br>
+4. ⭐ Starred [roboflow/supervision](https://github.com/roboflow/supervision)<br>
+5. ⭐ Starred [georgique/world-geojson](https://github.com/georgique/world-geojson)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
