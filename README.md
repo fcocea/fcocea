@@ -7,21 +7,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                77 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-🌆 Daytime                615 commits         ███████████░░░░░░░░░░░░░░   43.46 % 
-🌃 Evening                539 commits         ██████████░░░░░░░░░░░░░░░   38.09 % 
-🌙 Night                  184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+🌞 Morning                77 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+🌆 Daytime                615 commits         ███████████░░░░░░░░░░░░░░   43.34 % 
+🌃 Evening                539 commits         █████████░░░░░░░░░░░░░░░░   37.98 % 
+🌙 Night                  188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Tuesday                  251 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Wednesday                218 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Thursday                 241 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Friday                   103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-Saturday                 189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Sunday                   272 commits         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Monday                   141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Tuesday                  251 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Wednesday                218 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Thursday                 245 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Friday                   103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Saturday                 189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Sunday                   272 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
 ```
 
 
@@ -31,11 +31,11 @@ Sunday                   272 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-YAML                     1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-Python                   1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-TypeScript               1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
-Docker                   1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-TeX                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Python                   5 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   33.40 % 
+TypeScript               3 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+YAML                     2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Docker                   2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 ```
 
 
