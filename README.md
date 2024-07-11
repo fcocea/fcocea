@@ -49,6 +49,6 @@ JSON                     1 hr 2 mins         █░░░░░░░░░░�
 2. ⬆️ Pushed 1 commit(s) to [fcocea/Proyecto-Arq-Sw](https://github.com/fcocea/Proyecto-Arq-Sw)<br>
 3. ⬆️ Pushed 1 commit(s) to [fcocea/Proyecto-Arq-Sw](https://github.com/fcocea/Proyecto-Arq-Sw)<br>
 4. ⬆️ Pushed 1 commit(s) to [fcocea/Proyecto-Arq-Sw](https://github.com/fcocea/Proyecto-Arq-Sw)<br>
-5. 🤝 Became collaborator on [fcocea/Proyecto-Arq-Sw](https://github.com/fcocea/Proyecto-Arq-Sw)<br>
+5. ⬆️ Pushed 1 commit(s) to [fcocea/Proyecto-Arq-Sw](https://github.com/fcocea/Proyecto-Arq-Sw)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
