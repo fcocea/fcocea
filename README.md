@@ -47,8 +47,8 @@ TeX                      13 mins             █░░░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [fcocea/Proyecto-Arq-Sw](https://github.com/fcocea/Proyecto-Arq-Sw)<br>
 2. ⬆️ Pushed 1 commit(s) to [fcocea/Proyecto-Arq-Sw](https://github.com/fcocea/Proyecto-Arq-Sw)<br>
-3. 🤝 Became collaborator on [fcocea/Proyecto-Arq-Sw](https://github.com/fcocea/Proyecto-Arq-Sw)<br>
+3. ⬆️ Pushed 1 commit(s) to [fcocea/Proyecto-Arq-Sw](https://github.com/fcocea/Proyecto-Arq-Sw)<br>
 4. 🤝 Became collaborator on [fcocea/Proyecto-Arq-Sw](https://github.com/fcocea/Proyecto-Arq-Sw)<br>
-5. ⭐ Starred [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node)<br>
+5. 🤝 Became collaborator on [fcocea/Proyecto-Arq-Sw](https://github.com/fcocea/Proyecto-Arq-Sw)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
