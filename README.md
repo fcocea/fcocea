@@ -8,20 +8,20 @@
 
 ```text
 🌞 Morning                90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-🌆 Daytime                626 commits         ███████████░░░░░░░░░░░░░░   43.05 % 
-🌃 Evening                543 commits         █████████░░░░░░░░░░░░░░░░   37.35 % 
-🌙 Night                  195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+🌆 Daytime                626 commits         ███████████░░░░░░░░░░░░░░   43.02 % 
+🌃 Evening                543 commits         █████████░░░░░░░░░░░░░░░░   37.32 % 
+🌙 Night                  196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Tuesday                  251 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-Wednesday                219 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Thursday                 270 commits         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Monday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Tuesday                  251 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Wednesday                219 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Thursday                 271 commits         █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
 Friday                   106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Saturday                 189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Sunday                   273 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+Saturday                 189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Sunday                   273 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
 ```
 
 
@@ -31,11 +31,11 @@ Sunday                   273 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-Python                   19 hrs 28 mins      ████████████░░░░░░░░░░░░░   46.61 % 
-TypeScript               12 hrs 16 mins      ███████░░░░░░░░░░░░░░░░░░   29.40 % 
-JavaScript               1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-Docker                   1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-JSON                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Python                   19 hrs 17 mins      ████████████░░░░░░░░░░░░░   46.50 % 
+TypeScript               13 hrs 8 mins       ████████░░░░░░░░░░░░░░░░░   31.67 % 
+TeX                      4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+JavaScript               1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 
 
