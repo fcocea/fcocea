@@ -45,7 +45,7 @@ JavaScript               1 hr 59 mins        █░░░░░░░░░░�
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [fcocea/Proyecto-Arq-Sw](https://github.com/fcocea/Proyecto-Arq-Sw)<br>
+1. ⭐ Starred [resend/react-email](https://github.com/resend/react-email)<br>
 2. ⬆️ Pushed 1 commit(s) to [fcocea/Proyecto-Arq-Sw](https://github.com/fcocea/Proyecto-Arq-Sw)<br>
 3. ⬆️ Pushed 1 commit(s) to [fcocea/Proyecto-Arq-Sw](https://github.com/fcocea/Proyecto-Arq-Sw)<br>
 4. ⬆️ Pushed 1 commit(s) to [fcocea/Proyecto-Arq-Sw](https://github.com/fcocea/Proyecto-Arq-Sw)<br>
