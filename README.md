@@ -45,10 +45,10 @@ Python                   23 mins             ██░░░░░░░░░�
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [resend/react-email](https://github.com/resend/react-email)<br>
-2. ⭐ Starred [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node)<br>
-3. ⭐ Starred [roboflow/supervision](https://github.com/roboflow/supervision)<br>
-4. ⭐ Starred [georgique/world-geojson](https://github.com/georgique/world-geojson)<br>
-5. ⭐ Starred [jrnold/CDB90](https://github.com/jrnold/CDB90)<br>
+1. 🔱 Forked [fcocea/nextra](https://github.com/fcocea/nextra) from [shuding/nextra](https://github.com/shuding/nextra)<br>
+2. ⭐ Starred [resend/react-email](https://github.com/resend/react-email)<br>
+3. ⭐ Starred [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node)<br>
+4. ⭐ Starred [roboflow/supervision](https://github.com/roboflow/supervision)<br>
+5. ⭐ Starred [georgique/world-geojson](https://github.com/georgique/world-geojson)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
