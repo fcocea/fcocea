@@ -31,7 +31,11 @@ Sunday                   293 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 9 mins         █████████████████████░░░░   85.53 % 
+XML                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+CLASS                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+IDEA_MODULE              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 
 
