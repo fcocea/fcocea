@@ -45,10 +45,10 @@ XML                      21 mins             █░░░░░░░░░░�
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jstockwin/py-pdf-parser](https://github.com/jstockwin/py-pdf-parser)<br>
-2. ⭐ Starred [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)<br>
-3. ⬆️ Pushed 1 commit(s) to [fcocea/nextra](https://github.com/fcocea/nextra)<br>
-4. 🔱 Forked [fcocea/nextra](https://github.com/fcocea/nextra) from [shuding/nextra](https://github.com/shuding/nextra)<br>
-5. ⭐ Starred [resend/react-email](https://github.com/resend/react-email)<br>
+1. ⭐ Starred [typst/typst](https://github.com/typst/typst)<br>
+2. ⭐ Starred [jstockwin/py-pdf-parser](https://github.com/jstockwin/py-pdf-parser)<br>
+3. ⭐ Starred [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)<br>
+4. ⬆️ Pushed 1 commit(s) to [fcocea/nextra](https://github.com/fcocea/nextra)<br>
+5. 🔱 Forked [fcocea/nextra](https://github.com/fcocea/nextra) from [shuding/nextra](https://github.com/shuding/nextra)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
