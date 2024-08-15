@@ -45,10 +45,10 @@ Python                   31 mins             █░░░░░░░░░░�
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#8](https://github.com/Luis-Valenzuela-Concha/WikInf/pull/8) in [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
-2. ⬆️ Pushed 1 commit(s) to [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
-3. 💪 Opened PR [#7](https://github.com/Luis-Valenzuela-Concha/WikInf/pull/7) in [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
-4. ⬆️ Pushed 1 commit(s) to [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
-5. 💪 Opened PR [#6](https://github.com/Luis-Valenzuela-Concha/WikInf/pull/6) in [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
+1. ⬆️ Pushed 2 commit(s) to [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
+2. 🎉 Merged PR [#9](https://github.com/Luis-Valenzuela-Concha/WikInf/pull/9) in [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
+3. 👍 Approved [#9](https://github.com/Luis-Valenzuela-Concha/WikInf/pull/9#pullrequestreview-2241276697) in [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
+4. 💪 Opened PR [#8](https://github.com/Luis-Valenzuela-Concha/WikInf/pull/8) in [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
+5. ⬆️ Pushed 1 commit(s) to [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
