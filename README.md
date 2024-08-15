@@ -45,10 +45,10 @@ Python                   31 mins             █░░░░░░░░░░�
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [typst/typst](https://github.com/typst/typst)<br>
-2. ⭐ Starred [jstockwin/py-pdf-parser](https://github.com/jstockwin/py-pdf-parser)<br>
-3. ⭐ Starred [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)<br>
-4. ⬆️ Pushed 1 commit(s) to [fcocea/nextra](https://github.com/fcocea/nextra)<br>
-5. 🔱 Forked [fcocea/nextra](https://github.com/fcocea/nextra) from [shuding/nextra](https://github.com/shuding/nextra)<br>
+1. ⭐ Starred [appleboy/ssh-action](https://github.com/appleboy/ssh-action)<br>
+2. ⭐ Starred [typst/typst](https://github.com/typst/typst)<br>
+3. ⭐ Starred [jstockwin/py-pdf-parser](https://github.com/jstockwin/py-pdf-parser)<br>
+4. ⭐ Starred [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)<br>
+5. ⬆️ Pushed 1 commit(s) to [fcocea/nextra](https://github.com/fcocea/nextra)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
