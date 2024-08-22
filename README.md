@@ -45,10 +45,10 @@ JavaScript               1 hr 44 mins        █░░░░░░░░░░�
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
-2. 🎉 Merged PR [#9](https://github.com/Luis-Valenzuela-Concha/WikInf/pull/9) in [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
-3. 👍 Approved [#9](https://github.com/Luis-Valenzuela-Concha/WikInf/pull/9#pullrequestreview-2241276697) in [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
-4. 💪 Opened PR [#8](https://github.com/Luis-Valenzuela-Concha/WikInf/pull/8) in [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
-5. ⬆️ Pushed 1 commit(s) to [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
+1. ⬆️ Pushed 4 commit(s) to [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
+2. 🎉 Merged PR [#13](https://github.com/Luis-Valenzuela-Concha/WikInf/pull/13) in [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
+3. 👍 Approved [#13](https://github.com/Luis-Valenzuela-Concha/WikInf/pull/13#pullrequestreview-2252273518) in [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
+4. 💪 Opened PR [#12](https://github.com/Luis-Valenzuela-Concha/WikInf/pull/12) in [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
+5. ⬆️ Pushed 11 commit(s) to [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
