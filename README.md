@@ -45,10 +45,10 @@ SCSS                     34 mins             ░░░░░░░░░░░�
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#15](https://github.com/Luis-Valenzuela-Concha/WikInf/pull/15) in [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
-2. ⭐ Starred [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
-3. ⬆️ Pushed 2 commit(s) to [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
-4. 🎉 Merged PR [#14](https://github.com/Luis-Valenzuela-Concha/WikInf/pull/14) in [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
-5. 👍 Approved [#14](https://github.com/Luis-Valenzuela-Concha/WikInf/pull/14#pullrequestreview-2254802715) in [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
+1. ⭐ Starred [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)<br>
+2. 💪 Opened PR [#15](https://github.com/Luis-Valenzuela-Concha/WikInf/pull/15) in [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
+3. ⭐ Starred [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
+4. ⬆️ Pushed 2 commit(s) to [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
+5. 🎉 Merged PR [#14](https://github.com/Luis-Valenzuela-Concha/WikInf/pull/14) in [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
