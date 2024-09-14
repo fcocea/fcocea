@@ -44,7 +44,7 @@ No Activity Tracked This Week
 1. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
 2. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
 3. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
-4. ⭐ Starred [google/eng-practices](https://github.com/google/eng-practices)<br>
-5. ⭐ Starred [Schniz/fnm](https://github.com/Schniz/fnm)<br>
+4. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
+5. ⭐ Starred [google/eng-practices](https://github.com/google/eng-practices)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
