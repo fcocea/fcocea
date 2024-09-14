@@ -43,8 +43,8 @@ No Activity Tracked This Week
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
 2. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
-3. ⭐ Starred [google/eng-practices](https://github.com/google/eng-practices)<br>
-4. ⭐ Starred [Schniz/fnm](https://github.com/Schniz/fnm)<br>
-5. ⭐ Starred [Brendonovich/prisma-client-rust](https://github.com/Brendonovich/prisma-client-rust)<br>
+3. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
+4. ⭐ Starred [google/eng-practices](https://github.com/google/eng-practices)<br>
+5. ⭐ Starred [Schniz/fnm](https://github.com/Schniz/fnm)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
