@@ -41,10 +41,10 @@ No Activity Tracked This Week
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [skiptools/skip](https://github.com/skiptools/skip)<br>
+1. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
 2. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
-3. ⭐ Starred [hcengineering/platform](https://github.com/hcengineering/platform)<br>
-4. ⭐ Starred [onejs/one](https://github.com/onejs/one)<br>
-5. ⭐ Starred [biomejs/biome](https://github.com/biomejs/biome)<br>
+3. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
+4. ⭐ Starred [skiptools/skip](https://github.com/skiptools/skip)<br>
+5. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
