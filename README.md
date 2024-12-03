@@ -41,10 +41,10 @@ No Activity Tracked This Week
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [valkey-io/valkey](https://github.com/valkey-io/valkey)<br>
-2. ⭐ Starred [udlbook/udlbook](https://github.com/udlbook/udlbook)<br>
-3. ⭐ Starred [martiserra99/formity](https://github.com/martiserra99/formity)<br>
-4. ⬆️ Pushed 0 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
-5. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
+1. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
+2. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
+3. ⭐ Starred [valkey-io/valkey](https://github.com/valkey-io/valkey)<br>
+4. ⭐ Starred [udlbook/udlbook](https://github.com/udlbook/udlbook)<br>
+5. ⭐ Starred [martiserra99/formity](https://github.com/martiserra99/formity)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
