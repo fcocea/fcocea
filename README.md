@@ -41,10 +41,10 @@ No Activity Tracked This Week
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
+1. ⭐ Starred [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)<br>
 2. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
 3. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
-4. ⭐ Starred [valkey-io/valkey](https://github.com/valkey-io/valkey)<br>
-5. ⭐ Starred [udlbook/udlbook](https://github.com/udlbook/udlbook)<br>
+4. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
+5. ⭐ Starred [valkey-io/valkey](https://github.com/valkey-io/valkey)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
