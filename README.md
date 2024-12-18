@@ -41,10 +41,10 @@ No Activity Tracked This Week
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [deselaers/latex-beamerposter](https://github.com/deselaers/latex-beamerposter)<br>
-2. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
-3. ⭐ Starred [software-mansion/radon-ide](https://github.com/software-mansion/radon-ide)<br>
-4. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
-5. ⭐ Starred [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)<br>
+1. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
+2. ⭐ Starred [deselaers/latex-beamerposter](https://github.com/deselaers/latex-beamerposter)<br>
+3. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
+4. ⭐ Starred [software-mansion/radon-ide](https://github.com/software-mansion/radon-ide)<br>
+5. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
