@@ -43,8 +43,5 @@ No Activity Tracked This Week
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [astral-sh/uv](https://github.com/astral-sh/uv)<br>
 2. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
-3. ⭐ Starred [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)<br>
-4. ⬆️ Pushed 1 commit(s) to [ocastillo200/FFMSP](https://github.com/ocastillo200/FFMSP)<br>
-5. ⭐ Starred [deselaers/latex-beamerposter](https://github.com/deselaers/latex-beamerposter)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
