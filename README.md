@@ -42,6 +42,5 @@ No Activity Tracked This Week
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [astral-sh/uv](https://github.com/astral-sh/uv)<br>
-2. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
