@@ -41,7 +41,8 @@ No Activity Tracked This Week
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [aidenybai/react-scan](https://github.com/aidenybai/react-scan)<br>
-2. ⭐ Starred [astral-sh/uv](https://github.com/astral-sh/uv)<br>
+1. ⭐ Starred [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)<br>
+2. ⭐ Starred [aidenybai/react-scan](https://github.com/aidenybai/react-scan)<br>
+3. ⭐ Starred [astral-sh/uv](https://github.com/astral-sh/uv)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
