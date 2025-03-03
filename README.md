@@ -41,8 +41,9 @@ No Activity Tracked This Week
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)<br>
-2. ⭐ Starred [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)<br>
-3. ⭐ Starred [aidenybai/react-scan](https://github.com/aidenybai/react-scan)<br>
+1. ⭐ Starred [tobya/DocTo](https://github.com/tobya/DocTo)<br>
+2. ⭐ Starred [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)<br>
+3. ⭐ Starred [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)<br>
+4. ⭐ Starred [aidenybai/react-scan](https://github.com/aidenybai/react-scan)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
