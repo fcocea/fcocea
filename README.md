@@ -41,9 +41,10 @@ No Activity Tracked This Week
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dolanmiu/docx](https://github.com/dolanmiu/docx)<br>
-2. ⭐ Starred [tobya/DocTo](https://github.com/tobya/DocTo)<br>
-3. ⭐ Starred [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)<br>
-4. ⭐ Starred [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)<br>
+1. ⭐ Starred [elwerene/libreoffice-convert](https://github.com/elwerene/libreoffice-convert)<br>
+2. ⭐ Starred [dolanmiu/docx](https://github.com/dolanmiu/docx)<br>
+3. ⭐ Starred [tobya/DocTo](https://github.com/tobya/DocTo)<br>
+4. ⭐ Starred [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)<br>
+5. ⭐ Starred [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
