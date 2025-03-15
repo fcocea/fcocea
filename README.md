@@ -45,6 +45,5 @@ No Activity Tracked This Week
 2. ⭐ Starred [dolanmiu/docx](https://github.com/dolanmiu/docx)<br>
 3. ⭐ Starred [tobya/DocTo](https://github.com/tobya/DocTo)<br>
 4. ⭐ Starred [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)<br>
-5. ⭐ Starred [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
