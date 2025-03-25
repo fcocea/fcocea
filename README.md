@@ -45,6 +45,5 @@ No Activity Tracked This Week
 2. ⭐ Starred [elwerene/libreoffice-convert](https://github.com/elwerene/libreoffice-convert)<br>
 3. ⭐ Starred [dolanmiu/docx](https://github.com/dolanmiu/docx)<br>
 4. ⭐ Starred [tobya/DocTo](https://github.com/tobya/DocTo)<br>
-5. ⭐ Starred [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
