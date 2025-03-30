@@ -41,9 +41,10 @@ No Activity Tracked This Week
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto)<br>
-2. ⭐ Starred [elwerene/libreoffice-convert](https://github.com/elwerene/libreoffice-convert)<br>
-3. ⭐ Starred [dolanmiu/docx](https://github.com/dolanmiu/docx)<br>
-4. ⭐ Starred [tobya/DocTo](https://github.com/tobya/DocTo)<br>
+1. ⭐ Starred [TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)<br>
+2. ⭐ Starred [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto)<br>
+3. ⭐ Starred [elwerene/libreoffice-convert](https://github.com/elwerene/libreoffice-convert)<br>
+4. ⭐ Starred [dolanmiu/docx](https://github.com/dolanmiu/docx)<br>
+5. ⭐ Starred [tobya/DocTo](https://github.com/tobya/DocTo)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
