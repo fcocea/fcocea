@@ -45,6 +45,5 @@ No Activity Tracked This Week
 2. ⭐ Starred [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto)<br>
 3. ⭐ Starred [elwerene/libreoffice-convert](https://github.com/elwerene/libreoffice-convert)<br>
 4. ⭐ Starred [dolanmiu/docx](https://github.com/dolanmiu/docx)<br>
-5. ⭐ Starred [tobya/DocTo](https://github.com/tobya/DocTo)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
