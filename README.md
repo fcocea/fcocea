@@ -42,6 +42,5 @@ No Activity Tracked This Week
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)<br>
-2. ⭐ Starred [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
