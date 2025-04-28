@@ -42,6 +42,5 @@ No Activity Tracked This Week
 
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Opened PR [#16](https://github.com/Luis-Valenzuela-Concha/WikInf/pull/16) in [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
-2. ⭐ Starred [TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
