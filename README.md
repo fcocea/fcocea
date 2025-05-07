@@ -41,7 +41,8 @@ No Activity Tracked This Week
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#18](https://github.com/plataformas-cainf/WikInf/pull/18) in [plataformas-cainf/WikInf](https://github.com/plataformas-cainf/WikInf)<br>
-2. 💪 Opened PR [#16](https://github.com/Luis-Valenzuela-Concha/WikInf/pull/16) in [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
+1. ⭐ Starred [jiaaro/pydub](https://github.com/jiaaro/pydub)<br>
+2. 💪 Opened PR [#18](https://github.com/plataformas-cainf/WikInf/pull/18) in [plataformas-cainf/WikInf](https://github.com/plataformas-cainf/WikInf)<br>
+3. 💪 Opened PR [#16](https://github.com/Luis-Valenzuela-Concha/WikInf/pull/16) in [Luis-Valenzuela-Concha/WikInf](https://github.com/Luis-Valenzuela-Concha/WikInf)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
