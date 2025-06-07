@@ -41,6 +41,5 @@ No Activity Tracked This Week
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#20](https://github.com/plataformas-cainf/WikInf/pull/20) in [plataformas-cainf/WikInf](https://github.com/plataformas-cainf/WikInf)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
