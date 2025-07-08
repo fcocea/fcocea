@@ -41,5 +41,6 @@ No Activity Tracked This Week
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [openai/whisper](https://github.com/openai/whisper)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
