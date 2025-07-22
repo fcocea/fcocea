@@ -41,6 +41,7 @@ No Activity Tracked This Week
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [openai/whisper](https://github.com/openai/whisper)<br>
+1. ⭐ Starred [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)<br>
+2. ⭐ Starred [openai/whisper](https://github.com/openai/whisper)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
