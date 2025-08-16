@@ -45,6 +45,7 @@ JSON                     3 mins              ░░░░░░░░░░░�
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)<br>
+1. ⭐ Starred [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign)<br>
+2. ⭐ Starred [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
