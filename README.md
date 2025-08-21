@@ -46,6 +46,5 @@ JSON                     4 mins              ░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign)<br>
-2. ⭐ Starred [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
