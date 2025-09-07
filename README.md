@@ -8,7 +8,7 @@ Outside of work, I like continuous learning, staying active, and connecting with
 So, if you are interested in collaborating on a project, feel free to reach out! 🚀  
 
 
-<details><summary> 📈 This Week's Coding Stats</summary>
+<details><summary> 📈 Weekly Coding Activity</summary>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -48,7 +48,7 @@ BibTeX                   9 mins              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
-<details><summary> 💻 Latest activity on GitHub</summary>
+<details><summary> 💻 Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [matildaexp/remote-latam](https://github.com/matildaexp/remote-latam)<br>
