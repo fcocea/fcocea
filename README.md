@@ -45,6 +45,7 @@ JSON                     0 secs              ░░░░░░░░░░░�
 <details><summary> 💻 Latest activity on GitHub</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign)<br>
+1. ⭐ Starred [matildaexp/remote-latam](https://github.com/matildaexp/remote-latam)<br>
+2. ⭐ Starred [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
