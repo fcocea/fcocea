@@ -19,6 +19,5 @@ So, if you are interested in collaborating on a project, feel free to reach out!
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [matildaexp/remote-latam](https://github.com/matildaexp/remote-latam)<br>
-2. ⭐ Starred [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
