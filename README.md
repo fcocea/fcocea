@@ -48,6 +48,5 @@ TypeScript               7 mins              ███████████�
 <details><summary> 💻 Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [matildaexp/remote-latam](https://github.com/matildaexp/remote-latam)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
