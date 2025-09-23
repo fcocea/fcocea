@@ -11,6 +11,40 @@ So, if you are interested in collaborating on a project, feel free to reach out!
 <details><summary> 📈 Weekly Coding Activity</summary>
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                206 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+🌆 Daytime                890 commits         █████████░░░░░░░░░░░░░░░░   37.87 % 
+🌃 Evening                915 commits         ██████████░░░░░░░░░░░░░░░   38.94 % 
+🌙 Night                  339 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   330 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Tuesday                  366 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Wednesday                334 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Thursday                 364 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Friday                   176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Saturday                 330 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Sunday                   450 commits         █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Santiago
+
+💬 Programming Languages: 
+TypeScript               3 hrs 13 mins       ████████████████████████░   96.19 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Prisma                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+```
+
 
 <!--END_SECTION:waka-->
 </details>
