@@ -15,20 +15,20 @@ So, if you are interested in collaborating on a project, feel free to reach out!
 
 ```text
 🌞 Morning                209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-🌆 Daytime                911 commits         █████████░░░░░░░░░░░░░░░░   37.75 % 
-🌃 Evening                983 commits         ██████████░░░░░░░░░░░░░░░   40.74 % 
-🌙 Night                  310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+🌆 Daytime                911 commits         █████████░░░░░░░░░░░░░░░░   37.74 % 
+🌃 Evening                983 commits         ██████████░░░░░░░░░░░░░░░   40.72 % 
+🌙 Night                  311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   340 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Monday                   340 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
 Tuesday                  356 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Wednesday                445 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Thursday                 358 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Wednesday                445 commits         █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+Thursday                 359 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
 Friday                   179 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 Saturday                 322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Sunday                   413 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Sunday                   413 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
 ```
 
 
@@ -38,11 +38,11 @@ Sunday                   413 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-TypeScript               5 hrs 55 mins       ███████████░░░░░░░░░░░░░░   44.66 % 
-Python                   4 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   35.33 % 
-JSON                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Python                   6 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   34.98 % 
+TypeScript               6 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   31.55 % 
+YAML                     2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Docker                   1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+JSON                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 ```
 
 
