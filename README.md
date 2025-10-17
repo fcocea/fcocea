@@ -52,5 +52,6 @@ JSON                     1 hr 10 mins        ██░░░░░░░░░�
 <details><summary> 💻 Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [apple/container](https://github.com/apple/container)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
