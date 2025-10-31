@@ -52,5 +52,6 @@ TSConfig                 0 secs              ░░░░░░░░░░░�
 <details><summary> 💻 Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [outerbase/studio](https://github.com/outerbase/studio)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
