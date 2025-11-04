@@ -38,7 +38,7 @@ Sunday                   435 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-Python                   2 hrs 44 mins       █████████████████████████   100.00 % 
+Python                   2 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 
