@@ -48,6 +48,7 @@ Python                   7 hrs 14 mins       ███████████�
 <details><summary> 💻 Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [outerbase/studio](https://github.com/outerbase/studio)<br>
+1. ⭐ Starred [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)<br>
+2. ⭐ Starred [outerbase/studio](https://github.com/outerbase/studio)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
