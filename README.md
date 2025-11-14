@@ -52,6 +52,5 @@ Prisma                   0 secs              ░░░░░░░░░░░�
 <details><summary> 💻 Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
