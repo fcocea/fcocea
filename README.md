@@ -38,11 +38,11 @@ Sunday                   457 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-Python                   6 hrs 22 mins       ████████████████████░░░░░   79.74 % 
-TypeScript               1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Python                   6 hrs 22 mins       █████████████░░░░░░░░░░░░   51.92 % 
+TypeScript               5 hrs 41 mins       ████████████░░░░░░░░░░░░░   46.29 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 
