@@ -52,6 +52,7 @@ SQL                      2 mins              ░░░░░░░░░░░�
 <details><summary> 💻 Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [platanus-hack/platanus-hack-25-team-13](https://github.com/platanus-hack/platanus-hack-25-team-13)<br>
+1. ⭐ Starred [platanus-hack/platanus-hack-25-team-13](https://github.com/platanus-hack/platanus-hack-25-team-13)<br>
+2. 🤝 Became collaborator on [platanus-hack/platanus-hack-25-team-13](https://github.com/platanus-hack/platanus-hack-25-team-13)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
