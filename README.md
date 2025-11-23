@@ -14,21 +14,21 @@ So, if you are interested in collaborating on a project, feel free to reach out!
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                243 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-🌆 Daytime                988 commits         █████████░░░░░░░░░░░░░░░░   37.34 % 
-🌃 Evening                1018 commits        ██████████░░░░░░░░░░░░░░░   38.47 % 
-🌙 Night                  397 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+🌞 Morning                246 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+🌆 Daytime                1001 commits        █████████░░░░░░░░░░░░░░░░   37.32 % 
+🌃 Evening                1018 commits        █████████░░░░░░░░░░░░░░░░   37.96 % 
+🌙 Night                  417 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   373 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Tuesday                  368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Wednesday                457 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Thursday                 416 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Friday                   204 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Saturday                 388 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Sunday                   440 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Monday                   373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Tuesday                  368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Wednesday                457 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Thursday                 416 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Friday                   204 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Saturday                 404 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Sunday                   460 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
 ```
 
 
