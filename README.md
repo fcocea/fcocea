@@ -53,9 +53,9 @@ Other                    35 mins             █░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [platanus-hack/platanus-hack-25-team-13](https://github.com/platanus-hack/platanus-hack-25-team-13)<br>
-2. 💪 Opened PR [#18](undefined) in [platanus-hack/platanus-hack-25-team-13](https://github.com/platanus-hack/platanus-hack-25-team-13)<br>
+2. 💪 Opened PR [#20](undefined) in [platanus-hack/platanus-hack-25-team-13](https://github.com/platanus-hack/platanus-hack-25-team-13)<br>
 3. ⬆️ Pushed undefined commit(s) to [platanus-hack/platanus-hack-25-team-13](https://github.com/platanus-hack/platanus-hack-25-team-13)<br>
 4. ⬆️ Pushed undefined commit(s) to [platanus-hack/platanus-hack-25-team-13](https://github.com/platanus-hack/platanus-hack-25-team-13)<br>
-5. ⬆️ Pushed undefined commit(s) to [platanus-hack/platanus-hack-25-team-13](https://github.com/platanus-hack/platanus-hack-25-team-13)<br>
+5. 💪 Opened PR [#18](undefined) in [platanus-hack/platanus-hack-25-team-13](https://github.com/platanus-hack/platanus-hack-25-team-13)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
