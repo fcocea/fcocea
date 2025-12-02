@@ -51,6 +51,5 @@ JSON                     0 secs              ░░░░░░░░░░░�
 <details><summary> 💻 Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [platanus-hack/platanus-hack-25-team-13](https://github.com/platanus-hack/platanus-hack-25-team-13)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
