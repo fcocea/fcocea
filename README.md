@@ -11,40 +11,6 @@ So, if you are interested in collaborating on a project, feel free to reach out!
 <details><summary> 📈 Weekly Coding Activity</summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                261 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-🌆 Daytime                1010 commits        █████████░░░░░░░░░░░░░░░░   37.11 % 
-🌃 Evening                1021 commits        █████████░░░░░░░░░░░░░░░░   37.51 % 
-🌙 Night                  430 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   378 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Tuesday                  368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Wednesday                459 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Thursday                 418 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Friday                   208 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Saturday                 410 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Sunday                   481 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Santiago
-
-💬 Programming Languages: 
-TypeScript               59 mins             ███████████████████████░░   93.05 % 
-VB.NET                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-```
-
 
 <!--END_SECTION:waka-->
 </details>
