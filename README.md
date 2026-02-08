@@ -38,10 +38,7 @@ Sunday                   481 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-TypeScript               11 mins             █████████████████░░░░░░░░   69.13 % 
-Python                   5 mins              ███████░░░░░░░░░░░░░░░░░░   29.85 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 ```
 
 
