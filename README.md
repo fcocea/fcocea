@@ -52,5 +52,6 @@ Bash                     1 min               ░░░░░░░░░░░�
 <details><summary> 💻 Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
