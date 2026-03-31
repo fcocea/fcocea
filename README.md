@@ -14,21 +14,21 @@ So, if you are interested in collaborating on a project, feel free to reach out!
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                263 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-🌆 Daytime                1025 commits        █████████░░░░░░░░░░░░░░░░   37.25 % 
-🌃 Evening                1023 commits        █████████░░░░░░░░░░░░░░░░   37.17 % 
-🌙 Night                  441 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+🌞 Morning                263 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+🌆 Daytime                1027 commits        █████████░░░░░░░░░░░░░░░░   37.29 % 
+🌃 Evening                1023 commits        █████████░░░░░░░░░░░░░░░░   37.15 % 
+🌙 Night                  441 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   384 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Tuesday                  369 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Wednesday                460 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Thursday                 427 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Monday                   384 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Tuesday                  371 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Wednesday                460 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Thursday                 427 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
 Friday                   210 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Saturday                 411 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Sunday                   491 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Saturday                 411 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Sunday                   491 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
 ```
 
 
