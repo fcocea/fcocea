@@ -52,5 +52,7 @@ CSV                      7 mins              █░░░░░░░░░░�
 <details><summary> 💻 Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [kaihv/open-banking-chile](https://github.com/kaihv/open-banking-chile)<br>
+2. ⭐ Starred [Nutlope/logocreator](https://github.com/Nutlope/logocreator)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
