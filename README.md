@@ -53,6 +53,5 @@ Git Config               5 mins              ░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [maillab/cloud-mail](https://github.com/maillab/cloud-mail)<br>
-2. ⭐ Starred [kaihv/open-banking-chile](https://github.com/kaihv/open-banking-chile)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
