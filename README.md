@@ -52,6 +52,7 @@ Bash                     25 mins             █░░░░░░░░░░�
 <details><summary> 💻 Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [maillab/cloud-mail](https://github.com/maillab/cloud-mail)<br>
+1. ⭐ Starred [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)<br>
+2. ⭐ Starred [maillab/cloud-mail](https://github.com/maillab/cloud-mail)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
