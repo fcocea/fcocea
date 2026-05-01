@@ -54,6 +54,5 @@ YAML                     16 mins             ░░░░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [tiagozip/cap](https://github.com/tiagozip/cap)<br>
 2. ⭐ Starred [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)<br>
-3. ⭐ Starred [maillab/cloud-mail](https://github.com/maillab/cloud-mail)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
