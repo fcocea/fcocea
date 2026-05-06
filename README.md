@@ -54,6 +54,5 @@ Docker                   10 mins             █░░░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)<br>
 2. ⭐ Starred [tiagozip/cap](https://github.com/tiagozip/cap)<br>
-3. ⭐ Starred [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
