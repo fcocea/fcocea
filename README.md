@@ -15,20 +15,20 @@ So, if you are interested in collaborating on a project, feel free to reach out!
 
 ```text
 🌞 Morning                288 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-🌆 Daytime                1109 commits        █████████░░░░░░░░░░░░░░░░   37.43 % 
-🌃 Evening                1078 commits        █████████░░░░░░░░░░░░░░░░   36.38 % 
-🌙 Night                  488 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+🌆 Daytime                1109 commits        █████████░░░░░░░░░░░░░░░░   37.42 % 
+🌃 Evening                1078 commits        █████████░░░░░░░░░░░░░░░░   36.37 % 
+🌙 Night                  489 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   427 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Tuesday                  389 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Monday                   428 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Tuesday                  389 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
 Wednesday                484 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
 Thursday                 478 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
 Friday                   238 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
 Saturday                 422 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Sunday                   525 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Sunday                   525 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
 ```
 
 
@@ -38,11 +38,11 @@ Sunday                   525 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-Python                   3 hrs 58 mins       ████████████████░░░░░░░░░   62.31 % 
-Markdown                 42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Other                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-TypeScript               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Docker                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Python                   5 hrs 29 mins       █████████████████░░░░░░░░   66.31 % 
+Markdown                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Other                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Docker                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
 
 
