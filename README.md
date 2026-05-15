@@ -11,6 +11,40 @@ So, if you are interested in collaborating on a project, feel free to reach out!
 <details><summary> 📈 Weekly Coding Activity</summary>
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                288 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+🌆 Daytime                1109 commits        █████████░░░░░░░░░░░░░░░░   37.42 % 
+🌃 Evening                1078 commits        █████████░░░░░░░░░░░░░░░░   36.37 % 
+🌙 Night                  489 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   428 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Tuesday                  389 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Wednesday                484 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Thursday                 478 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Friday                   238 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Saturday                 422 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Sunday                   525 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Santiago
+
+💬 Programming Languages: 
+Python                   3 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.75 % 
+TypeScript               1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+JavaScript               1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Markdown                 1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+```
+
 
 <!--END_SECTION:waka-->
 </details>
