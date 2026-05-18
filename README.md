@@ -52,6 +52,5 @@ Other                    16 mins             █░░░░░░░░░░�
 <details><summary> 💻 Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#39559](undefined) in [JetBrains/swot](https://github.com/JetBrains/swot)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
