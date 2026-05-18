@@ -54,6 +54,5 @@ Other                    24 mins             █░░░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Opened PR [#39559](undefined) in [JetBrains/swot](https://github.com/JetBrains/swot)<br>
 2. ⬆️ Pushed undefined commit(s) to [fcocea/swot](https://github.com/fcocea/swot)<br>
-3. 🔱 Forked [fcocea/swot](https://github.com/fcocea/swot) from [JetBrains/swot](https://github.com/JetBrains/swot)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
