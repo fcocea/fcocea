@@ -14,21 +14,21 @@ So, if you are interested in collaborating on a project, feel free to reach out!
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                289 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-🌆 Daytime                1110 commits        █████████░░░░░░░░░░░░░░░░   37.29 % 
-🌃 Evening                1086 commits        █████████░░░░░░░░░░░░░░░░   36.48 % 
-🌙 Night                  492 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+🌞 Morning                289 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+🌆 Daytime                1110 commits        █████████░░░░░░░░░░░░░░░░   37.27 % 
+🌃 Evening                1086 commits        █████████░░░░░░░░░░░░░░░░   36.47 % 
+🌙 Night                  493 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   430 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
 Tuesday                  396 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Wednesday                486 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Thursday                 478 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Wednesday                486 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Thursday                 478 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
 Friday                   240 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Saturday                 422 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Sunday                   525 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Saturday                 422 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Sunday                   526 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
 ```
 
 
@@ -38,7 +38,10 @@ Sunday                   525 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               46 mins             █████████████████░░░░░░░░   67.61 % 
+Python                   14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+Prisma                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 ```
 
 
