@@ -38,11 +38,8 @@ Sunday                   529 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-Python                   3 hrs 42 mins       ██████████████░░░░░░░░░░░   55.26 % 
-TypeScript               2 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   41.39 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Prisma                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Python                   3 hrs 12 mins       ████████████████████████░   96.34 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 
 
