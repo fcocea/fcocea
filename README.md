@@ -52,6 +52,5 @@ HTML                     0 secs              ░░░░░░░░░░░�
 <details><summary> 💻 Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
