@@ -14,21 +14,21 @@ So, if you are interested in collaborating on a project, feel free to reach out!
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                308 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-🌆 Daytime                1169 commits        █████████░░░░░░░░░░░░░░░░   37.49 % 
-🌃 Evening                1098 commits        █████████░░░░░░░░░░░░░░░░   35.21 % 
-🌙 Night                  543 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+🌞 Morning                308 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+🌆 Daytime                1166 commits        █████████░░░░░░░░░░░░░░░░   37.47 % 
+🌃 Evening                1095 commits        █████████░░░░░░░░░░░░░░░░   35.19 % 
+🌙 Night                  543 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   431 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Tuesday                  401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Wednesday                488 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Thursday                 483 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Friday                   255 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Saturday                 427 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Sunday                   633 commits         █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Monday                   431 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Tuesday                  401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Wednesday                482 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Thursday                 483 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Friday                   255 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Saturday                 427 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Sunday                   633 commits         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
 ```
 
 
@@ -38,11 +38,11 @@ Sunday                   633 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-TypeScript               10 hrs 11 mins      ████████████████░░░░░░░░░   62.06 % 
-Python                   4 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-CSS                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+TypeScript               5 hrs 29 mins       ████████████░░░░░░░░░░░░░   48.51 % 
+Python                   4 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   36.92 % 
+Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+CSS                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 
 
