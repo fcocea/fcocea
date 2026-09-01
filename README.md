@@ -57,6 +57,5 @@ No AI Coding Activity Tracked This Week
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)<br>
-2. ⭐ Starred [momenbasel/PureMac](https://github.com/momenbasel/PureMac)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
