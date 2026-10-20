@@ -40,13 +40,32 @@ Sunday                   590 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   5 hrs 1 min         ████████████████████████░   97.30 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 14 mins (43.38%)
+
+✍️ 201 lines written by AI, 4,596 lines written by hand (4.19% AI-written)
+
+🔤 312,421 Input Tokens, 95,409 Output Tokens
+
+💵 $3.45 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 37 AI Prompts
+
+Grok                     221 lines           █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 4.19% of written lines came from AI
+📄 Detailed Prompter — average 728 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🔍 Hands-On Reviewer — 97.71% of changed lines were hand-edited
 ```
 
 
