@@ -11,7 +11,7 @@ So, if you are interested in collaborating on a project, feel free to reach out!
 <details><summary> 📈 Weekly Coding Activity</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-126%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-130%20hrs%2012%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -40,34 +40,34 @@ Sunday                   590 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-Python                   5 hrs 1 min         ████████████░░░░░░░░░░░░░   48.87 % 
-Other                    2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   26.51 % 
-TypeScript               1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Bash                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Python                   5 hrs 1 min         █████████░░░░░░░░░░░░░░░░   36.86 % 
+TypeScript               2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+Other                    2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+Bash                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 14 mins (70.46%)
+⏱ AI Coding Time: 10 hrs 31 mins (77.24%)
 
-✍️ 201 lines written by AI, 4,611 lines written by hand (4.18% AI-written)
+✍️ 1,315 lines written by AI, 4,612 lines written by hand (22.19% AI-written)
 
-🔤 1,422,576 Input Tokens, 680,312 Output Tokens
+🔤 2,294,046 Input Tokens, 1,226,737 Output Tokens
 
-💵 $34.83 Estimated AI Cost This Week
+💵 $69.46 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 122 AI Prompts
+🧠 10 AI Sessions, 194 AI Prompts
 
-Grok                     221 lines           █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   1,114 lines         █████████████████████░░░░   83.45 % 
+Grok                     221 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.18% of written lines came from AI
-📄 Detailed Prompter — average 1,314 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🔍 Hands-On Reviewer — 97.71% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 22.19% of written lines came from AI
+📄 Detailed Prompter — average 1,040 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🔍 Hands-On Reviewer — 87.62% of changed lines were hand-edited
 ```
 
 
