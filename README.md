@@ -40,33 +40,33 @@ Sunday                   621 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-TypeScript               12 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   35.13 % 
-Markdown                 8 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-Bash                     6 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-Other                    5 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-TeX                      36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+TypeScript               12 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   35.54 % 
+Markdown                 8 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+Bash                     6 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Other                    5 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+JSON                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 56 mins (98.44%)
+⏱ AI Coding Time: 33 hrs 32 mins (98.42%)
 
 ✍️ 4,599 lines written by AI, 44 lines written by hand (99.05% AI-written)
 
-🔤 8,536,246 Input Tokens, 4,411,241 Output Tokens
+🔤 8,454,809 Input Tokens, 4,385,630 Output Tokens
 
-💵 $261.38 Estimated AI Cost This Week
+💵 $260.69 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 662 AI Prompts
+🧠 32 AI Sessions, 648 AI Prompts
 
 Sonnet                   4,785 lines         ████████████████████████░   97.39 % 
 Opus                     128 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.05% of written lines came from AI
-📄 Detailed Prompter — average 604 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
+📄 Detailed Prompter — average 615 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
 🚀 High AI Trust — 0.97% of changed lines were hand-edited
 ```
 
